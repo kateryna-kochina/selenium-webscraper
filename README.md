@@ -1,4 +1,4 @@
-# Web Scraper Project
+# Selenium Web Scraper
 
 This project is a web scraper specifically designed to collect data from a website. It scrapes information about companies listed on the website, such as their names, addresses, and contact details.
 
@@ -10,7 +10,7 @@ The web scraper is implemented in Python and utilizes the Selenium library for w
 
 1. Clone the repository to your local machine:
 
-`git clone <repository_url>`
+`git clone selenium-webscraper`
 
 2. Install the required dependencies:
 
